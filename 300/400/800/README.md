@@ -4,4 +4,4 @@ Play around and hopefully come up with some questions that you couldn't find ans
 
 See "Self-Education" at https://github.com/vanHeemstraSystems/self-education
 
-See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/11/views/1?pane=issue&itemId=24123843
+See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/37/views/1?pane=issue&itemId=63882263
