@@ -7,6 +7,8 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
+Based on "Complete Roadmap to Learn System Design for Beginners" at https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/
+
 Can be read as "Learning - System Design" at https://app.gitbook.com/????/
 
 Can be browsed as "Learning - System Design" at https://vanheemstrasystems.github.io/learning-system-design/
